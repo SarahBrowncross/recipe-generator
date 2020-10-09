@@ -6,10 +6,12 @@ body {
 }
 
 h1 {
+  font-size: 4vh;
   margin: auto;
 }
 
 h2 {
+  font-size: 3vh;
   margin: auto;
 }
 
@@ -46,6 +48,7 @@ form {
 }
 
 main {
+  margin-top: 5vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
